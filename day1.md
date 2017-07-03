@@ -5,7 +5,7 @@ which is called TR.net . We talked about a lot of things such as importance of D
 for today which is learning PEP20 (20 python enhancement proposals) and writing it into a new github gist.  
 
 
-What I learnt by following github tutorials? (from [GitHub Guides] (https://guides.github.com/activities/hello-world/))
+What I learnt by following github tutorials? from [GitHub Guides](https://guides.github.com/activities/hello-world/)
 
 I learnt;
 
