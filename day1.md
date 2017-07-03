@@ -10,5 +10,7 @@ What I learnt by following github tutorials?
 I learnt;
 
 *how to create a repository
+
 *how to start a branch and manage it
+
 *how to pull request and see changes with original branch
