@@ -9,3 +9,4 @@ I followed a well known youtuber's videos which is [thenewboston](https://www.yo
 
 PS: Since I got used to put semicolon at the end of line in java, I kept going in python mistakenly and got errors :)
 PS2: One thing was surprised me, we can't use Turkish letters even in comments. Therefore, mostly I got errors for using Turkish letters in py files.
+PS3: Since we don't have curly brackets in python(indeed we have for dictionaries), we need to be very carefull when we work on if,while and for things. IDE understands according to alignments of highlighted words. 
