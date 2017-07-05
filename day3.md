@@ -4,6 +4,7 @@
 Helloooo Dear Diary, today I am planning to continue the job I couldn't finish yesterday which is python programming tutorials. After that, if I have time I want to get prepared for my presentation which will be on Friday.  
 
 Update at finishing:
+
 I finally finished my all tutorials and downloaded a program which is [marp](https://yhatt.github.io/marp/). It is a markdown presentation writer. I am planning to prepare my presention this night and tomorrow. 
 
 I noticed some main differences that I want to share between java and python.
