@@ -8,5 +8,5 @@ I finally finished my all tutorials and downloaded a program which is [marp](htt
 
 I noticed some main differences that I want to share between java and python.
 
-* PS1: In python, a subclass can inherit from more than one parentclass which doesnt exist in java.
+* PS1: In python, a subclass can inherit from more than one parentclass which doesn't exist in java.
 * PS2: __init__(self) for construction method (two underscores) unlike java, because we were using same name with that class's name.
