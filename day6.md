@@ -10,4 +10,4 @@ I mentioned;
 * What's the difference between Java.
 
 On the other hand, today was good to hear something out of technical stuff. [Mesut](https://www.linkedin.com/in/mesut-aygun-b96027a0/?ppe=1)
-abi did a great speech about life. He said every person is matter, which I strongly believe.  
+abi did a great speech about life. He said every person matters, which I strongly believe.  
